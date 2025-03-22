@@ -91,23 +91,23 @@ The input of a large language model is known as a prompt, while the output is kn
 
   1. Summarization of an article, book, product reviews and more, along with extraction of insights from unstructured data.
     
-    ![Example of summarization](./images/summarization-example.png?WT.mc_id=academic-105485-koreyst)
+    ![Example of summarization](./images/summarization-example.png)
   
   2. Creative ideation and design of an article, an essay, an assignment or more.
       
-     ![Example of creative writing](./images/creative-writing-example.png?WT.mc_id=academic-105485-koreyst)
+     ![Example of creative writing](./images/creative-writing-example.png)
 
 - A **question**, asked in the form of a conversation with an agent.
   
-  ![Example of conversation](./images/conversation-example.png?WT.mc_id=academic-105485-koreyst)
+  ![Example of conversation](./images/conversation-example.png)
 
 - A chunk of **text to complete**, which implicitly is an ask for writing assistance.
   
-  ![Example of text completion](./images/text-completion-example.png?WT.mc_id=academic-105485-koreyst)
+  ![Example of text completion](./images/text-completion-example.png)
 
 - A chunk of **code** together with the ask of explaining and documenting it, or a comment asking to generate a piece of code performing a specific task.
   
-  ![Coding example](./images/coding-example.png?WT.mc_id=academic-105485-koreyst)
+  ![Coding example](./images/coding-example.png)
 
 The examples above are quite simple and don’t want to be an exhaustive demonstration of Large Language Models capabilities. They just want to show the potential of using generative AI, in particular but not limited to educational contexts.
 
